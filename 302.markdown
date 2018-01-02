@@ -1,0 +1,103 @@
+---
+layout: post
+title:  "Moon Miners' Manifesto #302 - December 2017"
+date:   2017-12-31 14:41:43 -0800
+page-category: "mmm"
+---
+<img src="/images/MMM-302.png">
+
+## In this issue:
+
+<ul>
+<li>The Waypaver Foundation and The Moon Society</li>
+<li>Space Directive 1 and US Space Policy</li>
+<li>United Launch Alliance’s Cislunar 1000 Vision</li>
+<li>Moon Village Association Workshop Report</li>
+<li>Google Lunar XPRIZE Team Update</li>
+<li>Marspedia Council formed between Moon Society, Mars Society and Mars Foundation</li>
+<li>Update on the Manifesto and Its Future</li>
+</ul>
+
+## The Waypaver Foundation and The Moon Society
+
+<table width="100%"><tr><td><img src="/images/Waypaver344px.png"></td>
+<td><img src="/images/MoonSociety170px.png"></td></tr></table>
+   
+The Waypaver Foundation is a donor funded non-profit with the mission of removing obstacles to human lunar settlement. The Foundation’s website is <http://www.waypaverfoundation.org/>. The Moon Society and Waypaver have joined forces to provide the Society direct access to researchers and projects that need resources. The Society can mobilize its members and fundraising infrastructure while the Foundation’s research connections and experts can vette the research that needs to be done and who can do the work. Coordination is simple since the CEO of the Foundation, Michael Mealling, is also the Society’s current President.
+
+{{excerpt_separator}}
+
+The Foundation even has its own version of the Artemis Databook in the form of the [Lunar Settlement Index](http://lunarsettlementindex.org/). Discussions are underway to move the Index into the [Lunarpedia](http://lunarpedia.org). Future projects include working together on an update to the Moon Society website, targeted economic and financial research, policy statements, and joint funding of lunar surface operations research.
+
+## Space Directive 1 and US Space Policy
+
+On December 11, 2017 President Trump signed Space Directive 1 in a signing ceremony at the White House. The Directive made one change to the National Space Policy of 2010 that replaced the paragraph beginning “Set far-reaching exploration milestones” with:
+
+“Lead an innovative and sustainable program of exploration with commercial and international partners to enable human expansion across the solar system and to bring back to Earth new knowledge and opportunities. Beginning with missions beyond low-Earth orbit, the United States will lead the return of humans to the Moon for long-term exploration and utilization, followed by human missions to Mars and other destinations;”.
+
+<center><img src="/images/trump-moon.png" width="400"></center>
+
+Here are some highlights of the talking points release prior to the event:
+
+*Instructed the National Aeronautics and Space Administration (NASA) to pursue manned extraterrestrial exploration.
+*Space Policy Directive – 1 instructs NASA to return American astronauts to the moon.
+*At its inaugural October meeting, the National Space Council unanimously agreed to lead commercial and international partners above and beyond previous U.S. space policy:
+*Return United States astronauts to the Moon for long-term exploration and utilization
+*By refocusing our space program on feasible goals, President Trump will create incentives for private industry that spur 21st century space capabilities.
+*The Moon is of interest to international partners and is within reach of America’s private space industry.
+*Under the new Space Policy Directive, the United States will help drive the burgeoning domestic space industry, bring new knowledge from the cosmos, and spur incredible technology.
+
+The Society is a non-partisan organization and as such applauds any effort to return humans to the moon permanently and to develop lunar resources for use on Earth and in space.
+
+Details on program changes and funding priorities will begin to become clearer once budget requests begin to be released in February and March. The text of the Directive can be found here: <https://www.whitehouse.gov/presidential-actions/presidential-memorandum-reinvigorating-americas-human-space-exploration-program/>
+
+
+## United Launch Alliance’s Cislunar 1000 Vision
+
+In 2016 United Launch Alliance released their plan for 1,000 people living and working in Earth-moon space roughly 30 years from now. Called the "Cislunar 1,000 Vision", the plan is based on the simple idea that transportation from Low Earth Orbit (LEO) to anything beyond Medium Earth Orbit (MEO) can have significant cost savings if the fuel necessary to transfer the payload from LEO to the desired orbit is delivered to LEO from the Moon (e.g. down the gravity well) rather than from the Earth’s surface up (e.g. up the gravity well).
+ 
+ULA envisions four major steps:
+
+<table><tr><td><img src="/images/CL1000-1.png"></td><td><img src="/images/CL1000-2.png"></td></tr>
+<tr><td><img src="/images/CL1000-3.png"></td><td><img src="/images/CL1000-4.png"></td></tr></table>
+
+The interesting development in the past year has been that ULA has publicly acknowledged what many in the industry had only heard as rumors: **that the company had signed MOUs for fuel at LEO for the first stage of the plan for around $1 billion.** The company felt strongly enough about the plan that it was willing to act as a ‘market maker’ by signing agreements with fuel developers that those developers could use to raise funds.
+
+Regardless of whether ULA’s vision unfolds as they are planning, their economic statement has already affected national space policy and how money is being deployed in the commercial sector. The best summary of ULAs plan can be found in a Youtube video they produced last year:
+
+<https://www.youtube.com/watch?v=uxftPmpt7aA>
+
+
+## Moon Village Association Workshop Report
+
+Another development that began in 2016 but saw considerable developments in 2017 was Johann-Dietrich Wörner, the Director General of the European Space Agency, plan for lunar cooperation called the Moon Village. While a difficult concept to pin down, the general idea is that the Moon can handle large numbers of players with different goals who can cooperate in various ways such that the result is more than any one player can afford to do on their own.
+
+Earlier this year ESA and others created an independent organization called the Moon Village Association (MVA) whose mission is to provide a forum for further developing the idea and for cooperation among organizations inside and outside of Europe. The Association has four main working groups:  economics & finance, site(s) selection, systems architecture, and association participation mechanisms.
+
+Michael Mealling, President of the Moon Society, attended the first public meeting of the Association at the International Space University in Strasbourg this fall and is a regular participant in the economics and finance working group. It is expected that the MVA will have similar meetings in 2018 in which the Moon Society will participate as an affiliated organization.
+
+## Google Lunar XPRIZE Team Update
+
+2017 came and went with no team winning the Google Lunar XPRIZE. The expectation was that the competition would end at the end of 2017 but Google and The XPRIZE Foundation announced that as long as the team landed prior to March 31, 2018 it could still win. The previous cutoff in 2015 was that only those teams that had a verified launch contract prior to the end of 2016 would be allowed to move forward. The current competitors are: [SpaceIL](http://spaceil.com), [Moon Express](http://moonexpress.com), [Synergy Moon](http://synergymoon.org), [Team Indus](http://teamindus.in), and [Hakuto](http://team-hakuto.jp).
+
+As of publication there are only three months remaining for any of the teams to launch. But whether any team actually wins the prize is almost irrelevant at this point. The competition and the progress of the teams has stimulated national policy changes (see Space Directive 1 above), capital access (ispace, the parent company of Hakuto, recently raised a $90M Series A), and changes in laws from various countries around the world. The goal of XPRIZE competitions is to stimulate companies and markets so that they can become sustainable industries. If the current trajectory of lunar development continues the prize can be considered a success regardless of whether anyone wins.
+
+
+## Moon Society, Mars Society, and Mars Foundation Join Together To Form The Marspedia Governing Council
+
+Back in August, James Burk approached our Management Committee with an interesting proposal.  James is is the Mars Society’s current IT Director and was our Vice President & Webmaster back when The Moon Society was founded in 2000. James proposed that we begin working with The Mars Society, and another organization called The Mars Foundation, to form an official Governing Council over the [Marspedia.org wiki](http://marspedia.org).  Marspedia was originally started by The Moon Society back in 2007 along with Lunarpedia.org and some other space and science fiction-related wikis.  
+
+We accepted James’ proposal and appointed one of our board members, James Gholston, to be our official representative on the new Governing Council.  Burk and Gholston worked with Bruce Mackenzie from The Mars Foundation to write official Bylaws for Marspedia, to formalize our working relationship with these other space advocacy groups. At a meeting in October, the Council was formed with former Mars Society Executive Director Susan Holden Martin as Chair, and Burk as Vice Chair. Gholston was joined on the Council by our current Webmaster Rosalie Dieteman and also by Mike Delaney.  Several officers from The Mars Society also joined the Council including Lucinda Offer (Executive Director), Carie Fay (Administrative Director), Michael Stoltz (Media & Public Relations), and Nicole Willett (Education Director).  The Mars Society also began a major PR push to recruit volunteers and ask for content submissions via Facebook, LinkedIn, and their e-mail Newsletter.
+
+Currently, we have formed Editorial and Technical Subcommittees and we are plugging in volunteers there.  Anybody can help grow and manage the wiki, and can request a free account on <http://marspedia.org>.  In 2018, we plan to roll out an atlas of Mars, and add to the stable of high-quality articles on various Mars-related topics.  We will also fold in the new learnings and technologies used on Marspedia into the other wikis that the Moon Society maintains, such as Lunarpedia.
+
+
+## Update on the Manifesto and Its Future
+
+This publication was in continuous publication from 1986 until the beginning of 2017. It was written and published by Peter Kokh who retired from publication of the Manifesto at the end of 2016. Issue #301 was his last. During that time it served as the monthly newsletter for the SE Wisconsin Chapter of the National Space Society, the Milwaukee Outpost of the Moon Society, and eventually the Moon Society itself.
+
+The reins have been handed over to the Moon Society leadership, and we apologize for the hiatus. With this issue, we are transitioning from a physical paper format to one published as a PDF and on the Moon Society website. Existing subscribers will receive a PDF by email.
+As part of the update the Society will be making all previous version versions available publicly and, where possible, will be converting PDF versions into web accessible versions.
+
+Issue Number: 
+#302
